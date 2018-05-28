@@ -16,5 +16,6 @@ $ php artisan key:generate
 ```bash
 $ touch database/<nama_databas>.sqlite
 ```
+- Buka file .env dan sesuaikan lokasi database sqlite
 - Migrate database
 - Jalankan project
